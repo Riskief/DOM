@@ -1,0 +1,21 @@
+#avatar_url {
+  border-radius: 50%;
+}
+p {
+  font-size: 20px;
+}
+.profile {
+  text-align: left;
+  text-align: center;
+}
+@media (max-width: 600px) {
+  #avatar_url {
+    width: 200px;
+  }
+  p {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+}
